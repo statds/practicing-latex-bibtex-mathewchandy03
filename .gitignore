@@ -30,6 +30,7 @@ babel/
 *.ilg
 *.log
 *.out
+*.pdf
 *.swp
 *.synctex.gz
 *.toc
